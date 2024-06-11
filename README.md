@@ -1,6 +1,8 @@
 > # Questões.
 
+> ## 3.
 
+Essa branch é designada para quando o develop já chegou perto do seu primeiro lançamento, assim dessa forma apenas erros proximos da versão final ficarão aqui, e a branch develop pode focar no desenvolvimento de coisas para a proxima versão.
 
 
 
