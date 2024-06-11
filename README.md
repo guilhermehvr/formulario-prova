@@ -1,5 +1,7 @@
 > # Questões.
 
+> ## 3.
+A branch hotfix é responsável pela correção de bugs graves em desenvolvimento, necessitando ser corrigida de forma rápida sem atrapalhar a branch de desenvolvimento. 
 
 
 
