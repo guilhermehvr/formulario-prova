@@ -2,10 +2,12 @@
 
 
 
+> ## 4.
+A primeira maneira exige um fluxo de trabalho rápido e suave do desenvolvimento para as operações afim de entregar o valor rapidamente para os clientes.
 
+A segunda maneira descreve os principios que possibilitam o feedback rápido, constante e recíproco, da direita para a esquerda em todos os estágios do fluxo.
 
-
-
+A terceira maneira foca na criação de uma cultura de aprendizagem contínua e experimentação.
 
 > ## 5.
 
