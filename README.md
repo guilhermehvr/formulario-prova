@@ -1,6 +1,7 @@
 > # Questões.
 
-
+> ## 3.
+Essa é a branch develop, designada aos desenvolvimentos padrões do projeto, a partir de seu início, até as partes mais avançadas do projeto, normalmente de develop em primeiro momento passará para a branch release
 
 
 
