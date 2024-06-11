@@ -1,8 +1,7 @@
 > # Questões.
 
-
-
-
+> # 3.
+A branch de feature é responsável por concentrar os commits e pushs, realionados a novas funcionalidades que serão adicionadas ao projeto, centralizando as novas funcionalidades para as novas versões, devendo ser mesclado com a branch develop.
 
 
 
